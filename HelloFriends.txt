@@ -1,2 +1,6 @@
+<<<<<<< HEAD
  "Hallo zurck von Graski"
  Hallo zurck von Graski
+=======
+ Hallo zurueck von Raphael
+>>>>>>> 9e76705a7e509527ae23700eb90c95441457a6d9
